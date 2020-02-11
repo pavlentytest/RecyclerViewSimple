@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerViewExample</string>
+    <string name="add_btn"> + Add</string>
+    <string name="remove_btn"> - Remove</string>
 </resources>
